@@ -1,6 +1,8 @@
 # Book-Search-Engine
 This is a book search engine that allows users to search for books and save them to their account. The application is built using React, GraphQL, MongoDB, Mongoose, Express, Node.js, and Apollo Server. The application is deployed on Render. 
 
+## Description
+this is a simple book search engine that allows users to search for books and save them or delete to their account.
 
 ## Technologies Used
 - React: Utilize React for building user interface components.
