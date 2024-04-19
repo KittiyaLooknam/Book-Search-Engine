@@ -1,6 +1,7 @@
 # Book-Search-Engine
-This is a book search engine that allows users to search for books and save them to their account. The application is built using React, GraphQL, MongoDB, Mongoose, Express, Node.js, and Apollo Server. The application is deployed on Render. 
 
+## Description
+this is a simple book search engine that allows users to search for books and save them or delete to their account.
 
 ## Technologies Used
 - React: Utilize React for building user interface components.
@@ -22,8 +23,14 @@ This is a book search engine that allows users to search for books and save them
 - Link to deploys : 
 
 ## Screenshot
+Search the book and saved 
+
+![image](https://github.com/KittiyaLooknam/Book-Search-Engine/assets/149645563/d1f378bb-df24-4397-a59c-fc72d317e933)
 
 
+go to your saved books you can delete the book. 
+
+![image](https://github.com/KittiyaLooknam/Book-Search-Engine/assets/149645563/8e92b99e-8aba-4492-8b40-c6074a8dbd1a)
 
 
 ## Credits 
